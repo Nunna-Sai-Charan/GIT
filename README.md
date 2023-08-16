@@ -1,2 +1,2 @@
 # GIT
-This i sjust my learning tutorial on GIT
+This is just my learning tutorial on GIT
